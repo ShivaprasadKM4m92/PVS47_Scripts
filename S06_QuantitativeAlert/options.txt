@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\Users\Shiva Prasad KM\Documents\VuGen\Scripts\06_QuantitativeAlert
--IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\shiva prasad km\documents\vugen\scripts\06_quantitativealert\\logfile.log
-c:\users\shiva prasad km\documents\vugen\scripts\06_quantitativealert\\combined_06_QuantitativeAlert.c
-c:\users\shiva prasad km\documents\vugen\scripts\06_quantitativealert\\pre_cci.c

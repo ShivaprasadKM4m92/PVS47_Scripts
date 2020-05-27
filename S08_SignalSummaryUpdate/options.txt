@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\Users\Shiva Prasad KM\Documents\VuGen\Scripts\08_Signalsummary
--IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\shiva prasad km\documents\vugen\scripts\08_signalsummary\\logfile.log
-c:\users\shiva prasad km\documents\vugen\scripts\08_signalsummary\\combined_08_Signalsummary.c
-c:\users\shiva prasad km\documents\vugen\scripts\08_signalsummary\\pre_cci.c
