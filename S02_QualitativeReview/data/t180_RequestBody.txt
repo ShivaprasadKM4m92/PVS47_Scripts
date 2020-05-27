@@ -1,0 +1,5 @@
+"caseJsonObjArray=%5B%7B%22alertType%22%3A%22Single+Case+Alert%22%2C%22productName%22%3A%22casp"
+"ofungin+acetate%22%2C%22pt%22%3A%22Ventricular+arrhythmia%22%2C%22comments%22%3A%22Comments_Up"
+"dated%22%2C%22caseNumber%22%3A%2299089314%22%2C%22productFamily%22%3A%220991+Injection%22%2C%2"
+"2validatedSignalId%22%3A%22%22%2C%22assignedTo%22%3A7435%2C%22executedConfigId%22%3A15%2C%22pr"
+"oductId%22%3A100006%2C%22configId%22%3A12%7D%5D"

@@ -1,0 +1,13 @@
+POST /v1/perusertopics/8181035976/rel/topics/?subscriber_token=d2TxmRpX7Ek:APA91bELp0lapYm0m4Ap7V1R7giTxuJQScQWHG5bLDkSz5-HBtWitGmOIGFYSUoZE8px5SequNeFYIC8PSxm3kzApzpnE6guf1At5e7NjXqWRaoJR9vYULTBPklimBxTG166IrHETNO0 HTTP/1.1
+Host: firebaseperusertopics-pa.googleapis.com
+Connection: keep-alive
+Content-Length: 39
+Authorization: Bearer ya29.a0AfH6SMBm7hp1s3AXyDqaAgZ6Y3D7bkOxzRE0w8jOyP4S1xXbhy5j1Z_YBsSpqKWd7_9fBgUyol9Jqa-Ka57aEIJLnChIr2KnS3CXnloEga-xaKGAaVK3wftnYWKvrHJ-vNCVaFGMZlM6tDp_IVdht61Az95kjSkRltGfmHmQ1K7g8PcWfkXcm6JPyKxZWc1CLYEn6PPOCi1qpVJfGRNblPh5EaG_ngVuTXCc3xbIJJGP3wRgAL-H1oxTBC1WnNXKRLfpLtsT-g
+Content-Type: application/json; charset=UTF-8
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+

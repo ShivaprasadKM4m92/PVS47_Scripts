@@ -1,0 +1,11 @@
+[t127]
+FileName1=t127_dataTablesActionButtons-50a104b30cb3aa5d21eb1f1f33f1d835.html
+URL1=http://10.100.22.24:8181/signal/assets/app/pvs/dataTablesActionButtons-50a104b30cb3aa5d21eb1f1f33f1d835.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_122.xml
+RequestHeaderFile=t127_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t127_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

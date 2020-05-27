@@ -1,0 +1,9 @@
+[t157]
+SnapshotXmlFile=snapshot_157.xml
+FileName1=t157.png
+URL1=http://10.100.22.24:8181/signal/assets/word-icon-d5dad3111daf01520f03d97072fa0247.png
+Total=1
+RequestHeaderFile=t157_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t157_ResponseHeader.txt
+ContentType=image/png

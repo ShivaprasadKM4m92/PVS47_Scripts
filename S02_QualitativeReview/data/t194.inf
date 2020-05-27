@@ -1,0 +1,11 @@
+[t194]
+FileName1=t194_listSuspectProdCaseHistory.json
+URL1=http://10.100.22.24:8181/signal/caseHistory/listSuspectProdCaseHistory?caseNumber=99089314&productFamily=0991%20Injection&caseVersion=2&alertConfigId=12&_=1590142611400
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_186.xml
+RequestHeaderFile=t194_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t194_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t179]
+FileName1=t179_listComments.html
+URL1=http://10.100.22.24:8181/signal/alertComment/listComments?alertType=Single+Case+Alert&productFamily=0991+Injection&caseNumber=99089314&productName=caspofungin+acetate&pt=Ventricular+arrhythmia&productId=100006&assignedTo=7435&executedConfigId=15&configId=12
+Total=1
+ContentType=
+SnapshotXmlFile=snapshot_171.xml
+RequestHeaderFile=t179_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t179_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

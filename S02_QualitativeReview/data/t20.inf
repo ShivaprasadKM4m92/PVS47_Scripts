@@ -1,0 +1,11 @@
+[t20]
+FileName1=t20.json
+URL1=https://firebaseperusertopics-pa.googleapis.com/v1/perusertopics/8181035976/rel/topics/?subscriber_token=d2TxmRpX7Ek:APA91bELp0lapYm0m4Ap7V1R7giTxuJQScQWHG5bLDkSz5-HBtWitGmOIGFYSUoZE8px5SequNeFYIC8PSxm3kzApzpnE6guf1At5e7NjXqWRaoJR9vYULTBPklimBxTG166IrHETNO0
+Total=1
+RequestHeaderFile=t20_RequestHeader.txt
+RequestBodyFile=t20_RequestBody.txt
+ResponseHeaderFile=t20_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_18.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

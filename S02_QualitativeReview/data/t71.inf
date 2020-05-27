@@ -1,0 +1,11 @@
+[t71]
+FileName1=t71_buttons.bootstrap-acac51d5cf162bd14f44ad66a6f275f5.html
+URL1=http://10.100.22.24:8181/signal/assets/datatables/buttons.bootstrap-acac51d5cf162bd14f44ad66a6f275f5.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_69.xml
+RequestHeaderFile=t71_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t71_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

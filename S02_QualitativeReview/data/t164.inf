@@ -1,0 +1,11 @@
+[t164]
+SnapshotXmlFile=snapshot_156.xml
+FileName1=t164.gif
+URL1=http://10.100.22.24:8181/signal/assets/excel-a40ce78cdd86cac8004163bf736802da.gif
+Total=1
+RequestHeaderFile=t164_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t164_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1

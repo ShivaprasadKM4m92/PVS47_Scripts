@@ -1,0 +1,11 @@
+[t132]
+FileName1=t132_Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRIYCTYpmtasdEcoEgsNvYWDDxIAGgAiABoAEjIJPjZj6w7vTKwSCw3zXyKDEgAaACIAEgsNvYWDDxIAGgAiABILDZ25hX4SABoAIgAaAA==.txt
+URL1=https://content-autofill.googleapis.com/v1/pages/Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRIYCTYpmtasdEcoEgsNvYWDDxIAGgAiABoAEjIJPjZj6w7vTKwSCw3zXyKDEgAaACIAEgsNvYWDDxIAGgAiABILDZ25hX4SABoAIgAaAA==?alt=proto
+Total=1
+ContentType=text/plain
+SnapshotXmlFile=snapshot_126.xml
+RequestHeaderFile=t132_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t132_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

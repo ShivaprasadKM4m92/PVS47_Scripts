@@ -1,0 +1,11 @@
+[t41]
+FileName1=t41_fuelux.min-d30fb133a2493fadc38faabf3f226bc4.html
+URL1=http://10.100.22.24:8181/signal/assets/vendorUi/fuelux/fuelux.min-d30fb133a2493fadc38faabf3f226bc4.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_39.xml
+RequestHeaderFile=t41_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t41_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
