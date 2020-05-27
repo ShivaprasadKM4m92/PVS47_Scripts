@@ -1,0 +1,11 @@
+[t222]
+FileName1=t222.json
+URL1=http://10.100.22.24:8181/signal/singleCaseAlert/listByExecutedConfig/17?cumulative=false&adhocRun=false&dashboardFilter=&tagName=&isFilterRequest=false&filters=[]
+Total=1
+RequestHeaderFile=t222_RequestHeader.txt
+RequestBodyFile=t222_RequestBody.txt
+ResponseHeaderFile=t222_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_222.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t237]
+FileName1=t237_info.json
+URL1=http://10.100.22.24:8181/signal/stomp/info
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_237.xml
+RequestHeaderFile=t237_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t237_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,6 @@
+"alertType=Single+Case+Alert&filterId=&name=PerfTest1&description=&selectField=priority.id&sele"
+"ctOperator=EQUALS&selectValue=&selectSelect=6667&selectDate=05%2F25%2F2020&JSONQuery=%7B%22all"
+"%22%3A%7B%22containerGroups%22%3A%5B+%7B%22expressions%22%3A%5B+%7B%22index%22%3A%220%22%2C%22"
+"field%22%3A%22priority.id%22%2C%22op%22%3A%22EQUALS%22%2C%22value%22%3A%226667%22%7D+%5D+%7D++"
+"%5D+%7D+%7D&hasBlanks=false&selectField=priority.id&selectOperator=EQUALS&selectValue=&selectS"
+"elect=6667&selectDate=05%2F25%2F2020&_csrf=e26e580b-9d93-4c1b-860c-a68c4a973d77"

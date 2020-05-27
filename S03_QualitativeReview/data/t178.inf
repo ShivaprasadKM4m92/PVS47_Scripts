@@ -1,0 +1,11 @@
+[t178]
+FileName1=t178_websocket.html
+URL1=http://10.100.22.24:8181/signal/stomp/731/1xnvnmq9/websocket
+Total=1
+ContentType=
+SnapshotXmlFile=snapshot_178.xml
+RequestHeaderFile=t178_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t178_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

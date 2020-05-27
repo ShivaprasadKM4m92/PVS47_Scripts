@@ -1,0 +1,13 @@
+POST /v1/issuetoken HTTP/1.1
+Host: oauthaccountmanager.googleapis.com
+Connection: keep-alive
+Content-Length: 626
+Authorization: Bearer ya29.a0AfH6SMBUsht8KBBrnPcmc_-DQaKFI1Mjx9R4_wFfrod7m6AuJmAVHnNonexvcd6d26UUaD093YwzhNWD774eyXQXFAUjcGBeO77Us3LsGt-ipW9nyVlPiO94tazvunUbXahDJWJUhjo7MidaUkCYT-iAAuN1U7NzvA9rH8wBjErXmJOwQq2emF1jL4_GdLOHYOVp8_LPzrzlUC4-_UORLIljEkifKdxj5v0R-f0y1ZgGuKD_vSJg71WI7dmB8_GUgD7wtcvaFg
+Content-Type: application/x-www-form-urlencoded
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+

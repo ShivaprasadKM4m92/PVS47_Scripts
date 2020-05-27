@@ -1,0 +1,9 @@
+HTTP/1.1 200 
+Last-Modified: Thu, 21 May 2020 08:17:48 GMT
+ETag: "app/pvs/hbs-templates/case_details_child_view-e012042288240e93a455d686ed1e73a1.hbs"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Length: 195
+Date: Mon, 25 May 2020 07:09:08 GMT
+

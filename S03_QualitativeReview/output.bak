@@ -1,0 +1,52 @@
+Virtual User Script started at: 25-05-2020 15:48:16
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2020.0.0 for Windows 10; build 793 (Nov 27 2019 19:51:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\Shiva Prasad KM\Documents\VuGen\Scripts\03_QualitativeReview\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+Action.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(6): Notify: Transaction "QualitativeReview_01_OpenApplication" started.
+Action.c(8): web_add_header("Accept-Encoding") started  	[MsgId: MMSG-26355]
+Action.c(8): web_add_header("Accept-Encoding") was successful  	[MsgId: MMSG-26392]
+Action.c(11): web_add_auto_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Action.c(11): web_add_auto_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Action.c(15): web_add_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(15): web_add_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(18): web_add_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(18): web_add_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(21): web_add_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(21): web_add_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(24): web_add_auto_header("User-Agent") started  	[MsgId: MMSG-26355]
+Action.c(24): web_add_auto_header("User-Agent") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_header("Accept") started  	[MsgId: MMSG-26355]
+Action.c(29): web_add_header("Accept") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("Accept-Encoding") started  	[MsgId: MMSG-26355]
+Action.c(32): web_add_auto_header("Accept-Encoding") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(35): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(39): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+Action.c(39): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+Action.c(50): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(50): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(54): web_url("signal") started  	[MsgId: MMSG-26355]
+Action.c(54): Error -27792: Failed to connect to server "10.100.22.24:8181": [10060] Connection timed out  	[MsgId: MERR-27792]
+Action.c(54): Error -35048: No match found for the requested parameter "Csfr_TokenId". Check whether the tag with specific attributes exists in the response data  	[MsgId: MERR-35048]
+Action.c(54): Error -26366: "Text=Login" not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(54): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+Action.c(54): web_url("signal") highest severity level was "ERROR", 0 body bytes, 0 header bytes  	[MsgId: MMSG-26388]
+Action.c(54): Notify: Transaction "QualitativeReview_01_OpenApplication" ended with a "Fail" status (Duration: 21.1533 Wasted Time: 0.0945).
+Action.c(54): Notify: Transaction "QualitativeReview_01_OpenApplication" has 3 error message(s).
+Action.c(54): Notify: The 1st error message associated with transaction "QualitativeReview_01_OpenApplication" is "Error -27792: Failed to connect to server "10.100.22.24:8181": [10060] Connection timed out"
+Action.c(54): Notify: The 2nd error message associated with transaction "QualitativeReview_01_OpenApplication" is "Error -26366: "Text=Login" not found for web_reg_find"
+Action.c(54): Notify: The 3rd error message associated with transaction "QualitativeReview_01_OpenApplication" is "Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively."
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

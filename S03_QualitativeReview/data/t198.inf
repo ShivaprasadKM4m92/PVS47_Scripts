@@ -1,0 +1,9 @@
+[t198]
+SnapshotXmlFile=snapshot_198.xml
+FileName1=t198.jpg
+URL1=http://10.100.22.24:8181/signal/assets/pv-btn-bg3-1e05f4eeb9f3efb885b2c05a0bea4ab4.jpg
+Total=1
+RequestHeaderFile=t198_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t198_ResponseHeader.txt
+ContentType=image/jpeg
