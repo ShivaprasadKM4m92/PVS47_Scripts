@@ -1,0 +1,11 @@
+[t60]
+FileName1=t60_rx-notify-db0528274130516c271389cccac65e17.html
+URL1=http://10.100.22.24:8181/signal/assets/vendorUi/sweet-alert/rx-notify-db0528274130516c271389cccac65e17.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_60.xml
+RequestHeaderFile=t60_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t60_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

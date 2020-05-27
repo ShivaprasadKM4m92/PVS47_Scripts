@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Shiva Prasad KM\Documents\VuGen\Scripts\04_QualitativeReview
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\shiva prasad km\documents\vugen\scripts\04_qualitativereview\\logfile.log
+c:\users\shiva prasad km\documents\vugen\scripts\04_qualitativereview\\combined_04_QualitativeReview.c
+c:\users\shiva prasad km\documents\vugen\scripts\04_qualitativereview\\pre_cci.c
