@@ -1,0 +1,1 @@
+-usr "C:\Project\PVS\Scripts\S13_LiteratureAlerts\S13_LiteratureAlerts.usr" -compile_only -out "C:\Project\PVS\Scripts\S13_LiteratureAlerts\" -drv_log_file "C:\Project\PVS\Scripts\S13_LiteratureAlerts\mdrv.log" -cfg "C:\Project\PVS\Scripts\S13_LiteratureAlerts\default.cfg" -product_name vugen
