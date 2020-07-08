@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+Last-Modified: Mon, 06 Jul 2020 00:33:52 GMT
+ETag: "vendorUi/wow/wow.min-237e66d720861f3cc99ee444887b7c32.js"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: application/javascript;charset=UTF-8
+Content-Length: 1704
+Date: Wed, 08 Jul 2020 13:11:11 GMT
+

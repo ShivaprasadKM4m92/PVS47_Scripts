@@ -1,0 +1,11 @@
+[t38]
+FileName1=t38_pvs_app_css-5c3c9738e333026bac181f4ace083610.css
+URL1=http://10.100.22.24:8181/signal/assets/app/pvs/pvs_app_css-5c3c9738e333026bac181f4ace083610.css
+Total=1
+ContentType=text/css
+SnapshotXmlFile=snapshot_37.xml
+RequestHeaderFile=t38_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t38_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

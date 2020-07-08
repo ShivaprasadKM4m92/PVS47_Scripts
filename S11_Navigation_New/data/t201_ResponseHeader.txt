@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+Last-Modified: Mon, 06 Jul 2020 00:30:50 GMT
+ETag: "jquery-ui/jquery-ui-0ac146552c49411ebf7e65f0b61ae8a0.css"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: text/css;charset=UTF-8
+Content-Length: 3868
+Date: Wed, 08 Jul 2020 13:21:30 GMT
+

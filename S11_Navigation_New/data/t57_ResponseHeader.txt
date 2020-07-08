@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+Last-Modified: Mon, 06 Jul 2020 00:31:08 GMT
+ETag: "mdi-fonts/css/materialdesignicons-2f254cfdb2b23bcf596ab766574b3675.css"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: text/css;charset=UTF-8
+Content-Length: 25427
+Date: Wed, 08 Jul 2020 13:11:10 GMT
+

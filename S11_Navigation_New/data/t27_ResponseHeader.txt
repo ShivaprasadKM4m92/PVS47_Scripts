@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+Last-Modified: Mon, 06 Jul 2020 00:31:08 GMT
+ETag: "OpenSans-Regular-55835483c304eaa8477fea2c36abba17.woff2"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: font/woff2;charset=UTF-8
+Content-Length: 47049
+Date: Wed, 08 Jul 2020 13:09:14 GMT
+

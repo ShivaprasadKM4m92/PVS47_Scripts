@@ -1,0 +1,11 @@
+[t216]
+FileName1=t216_dns-query.html
+URL1=https://dns.google/dns-query?dns=t1cBAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Total=1
+ContentType=application/dns-message
+SnapshotXmlFile=snapshot_215.xml
+RequestHeaderFile=t216_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t216_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

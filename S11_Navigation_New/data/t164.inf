@@ -1,0 +1,11 @@
+[t164]
+FileName1=t164_disposition-change-a303f57685feda1e1afe8ee8a46288f2.html
+URL1=http://10.100.22.24:8181/signal/assets/app/pvs/disposition/disposition-change-a303f57685feda1e1afe8ee8a46288f2.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_163.xml
+RequestHeaderFile=t164_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t164_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

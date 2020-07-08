@@ -1,0 +1,9 @@
+HTTP/1.1 200 
+Last-Modified: Mon, 06 Jul 2020 00:31:10 GMT
+ETag: "bg2-a39cb4fbdd9436c08ad118995fc95c46.png"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Type: image/png;charset=UTF-8
+Content-Length: 80381
+Date: Wed, 08 Jul 2020 13:11:16 GMT
+

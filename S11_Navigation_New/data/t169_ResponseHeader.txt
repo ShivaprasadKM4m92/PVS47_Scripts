@@ -1,0 +1,9 @@
+HTTP/1.1 200 
+Last-Modified: Mon, 06 Jul 2020 00:31:10 GMT
+ETag: "word-icon-d5dad3111daf01520f03d97072fa0247.png"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Type: image/png;charset=UTF-8
+Content-Length: 1416
+Date: Wed, 08 Jul 2020 13:18:53 GMT
+

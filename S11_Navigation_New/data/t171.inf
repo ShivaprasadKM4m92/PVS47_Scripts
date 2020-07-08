@@ -1,0 +1,11 @@
+[t171]
+FileName1=t171_excel.gif
+URL1=http://10.100.22.24:8181/signal/assets/excel.gif
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_170.xml
+RequestHeaderFile=t171_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t171_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

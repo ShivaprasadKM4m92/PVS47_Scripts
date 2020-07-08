@@ -1,0 +1,11 @@
+[t29]
+FileName1=t29_background-4c8c4fd7df1b6436735eac4cfed91698.jpg
+URL1=http://10.100.22.24:8181/signal/assets/background-4c8c4fd7df1b6436735eac4cfed91698.jpg
+Total=1
+ContentType=image/jpeg
+SnapshotXmlFile=snapshot_28.xml
+RequestHeaderFile=t29_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t29_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

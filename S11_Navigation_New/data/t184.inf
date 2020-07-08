@@ -1,0 +1,11 @@
+[t184]
+FileName1=t184_literature_alert_review-982289e3fdc377b2cb30a2d898e60e2e.html
+URL1=http://10.100.22.24:8181/signal/assets/app/pvs/alerts_review/literature/literature_alert_review-982289e3fdc377b2cb30a2d898e60e2e.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_183.xml
+RequestHeaderFile=t184_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t184_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

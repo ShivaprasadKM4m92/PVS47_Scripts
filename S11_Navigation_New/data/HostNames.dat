@@ -1,0 +1,12 @@
+[hosts]
+10.100.22.24=
+dns.google=
+accounts.google.com=
+ssl.gstatic.com=
+www.googleapis.com=
+clientservices.googleapis.com=
+oauthaccountmanager.googleapis.com=
+clients4.google.com=
+content-autofill.googleapis.com=
+update.googleapis.com=
+safebrowsing.googleapis.com=

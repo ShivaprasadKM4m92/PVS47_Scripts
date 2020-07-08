@@ -1,0 +1,11 @@
+[t144]
+FileName1=t144_fuelux-f9b4ad7ab3a7ffc6f349ea76f519d981.html
+URL1=http://10.100.22.24:8181/signal/assets/fuelux/fuelux-f9b4ad7ab3a7ffc6f349ea76f519d981.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_143.xml
+RequestHeaderFile=t144_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t144_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

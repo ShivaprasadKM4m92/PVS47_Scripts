@@ -1,0 +1,11 @@
+[t183]
+FileName1=t183.html
+URL1=http://10.100.22.24:8181/signal/literatureAlert/review
+Total=1
+RequestHeaderFile=t183_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t183_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_182.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

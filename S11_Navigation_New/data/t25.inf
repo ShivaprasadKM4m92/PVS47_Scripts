@@ -1,0 +1,11 @@
+[t25]
+FileName1=t25_application-edeae5626e2c5caac9747dbc70972fa9.html
+URL1=http://10.100.22.24:8181/signal/assets/application-edeae5626e2c5caac9747dbc70972fa9.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_24.xml
+RequestHeaderFile=t25_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t25_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

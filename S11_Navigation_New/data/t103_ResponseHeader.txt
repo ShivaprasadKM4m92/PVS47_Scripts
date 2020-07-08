@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+Last-Modified: Mon, 06 Jul 2020 00:32:42 GMT
+ETag: "app/pvs/calendar-4d078ca93abd6a53a6f9c1bf8f79cd54.js"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: application/javascript;charset=UTF-8
+Content-Length: 2860
+Date: Wed, 08 Jul 2020 13:11:15 GMT
+

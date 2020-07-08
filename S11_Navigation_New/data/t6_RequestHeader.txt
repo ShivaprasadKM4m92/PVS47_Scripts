@@ -1,0 +1,14 @@
+POST /ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard HTTP/1.1
+Host: accounts.google.com
+Connection: keep-alive
+Content-Length: 1
+Origin: https://www.google.com
+Content-Type: application/x-www-form-urlencoded
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: CONSENT=YES+IN.en+202003; SEARCH_SAMESITE=CgQIjZAB; OGPC=19018523-1:; OGP=-19018523:; ANID=AHWqTUlFzFvJUGdkxV0Ku0QBPUaBYNPIFIJ8ucf6FfaiZU8z1u4DHtZuZJxKqoWa; SID=ywfeCrOGa5AGAVkktaaHO3yGg94pvtNcTQLC5t_e7DvyT-znKr7oP1osvVDGvRt139Dd7w.; __Secure-3PSID=ywfeCrOGa5AGAVkktaaHO3yGg94pvtNcTQLC5t_e7DvyT-znsTwRz-OgVRUPCbQBJHxXog.; HSID=AQ22j1BEI2Hi53o5N; SSID=AJetNzulehW-2kRrq; APISID=yv5AkO9l-KLCmsNS/ASCj7n5KftJSJjKvV; SAPISID=SFVK2DiiqT3s0F0x/Ad8H4Ecv5nG38Zyvx; __Secure-HSID=AQ22j1BEI2Hi53o5N; __Secure-SSID=AJetNzulehW-2kRrq; __Secure-APISID=yv5AkO9l-KLCmsNS/ASCj7n5KftJSJjKvV; __Secure-3PAPISID=SFVK2DiiqT3s0F0x/Ad8H4Ecv5nG38Zyvx; ACCOUNT_CHOOSER=AFx_qI6QWSN1PmCJwGOUAd4PTEAX6P-y6Obck0b9JaMee9m-T4EIPsc-OAn4IQjHI6q2A8PqyfVHxVcaBF9ixULvloBk7Khpyhiah0Xh4MRQViiR4nUGV4eXZJw98DoSLxpcyXmnXKetXKoJUaVEjcwCQePi5CNqXWkgP9KdNQZDbtmZCkrFztbNRHnaBd41W4tfCwaZk6U2vlqGHJfF5Z7MI1O2QZ-7AuFveI--qcesNWXtit1yLAI; GAPS=1:4TRmFfd51s0Ee7z81iJhapwCMYkfOsumCz9UN7j6w3FEvQ48iX8UPLkTyOfs3TNz3CqNVbcbywz7jFZoT0KgUwmiJWPanw:82XMUKOaJKf22lqj; __Host-GAPS=1:4TRmFfd51s0Ee7z81iJhapwCMYkfOsumCz9UN7j6w3FEvQ48iX8UPLkTyOfs3TNz3CqNVbcbywz7jFZoT0KgUwmiJWPanw:82XMUKOaJKf22lqj; LSID=doritos|o.mail.google.com|o.myaccount.google.com|s.IN|s.youtube:ywfeCtYHy3ZeUZEVYVKlu71hYqSuxeY0F5P-3jef54Vd6pAPRQlxvRh7AAJ-9IoQERTBVA.; __Host-3PLSID=doritos|o.mail.google.com|o.myaccount.google.com|s.IN|s.youtube:ywfeCtYHy3ZeUZEVYVKlu71hYqSuxeY0F5P-3jef54Vd6pAPvQD3iKjY1lzuT4-eNQcJ5A.; NID=204=o8mYBDJTeotVo5quUVC95n4qG4pJwjUuWHLdnDk6vyJMVE0EN17zJfr6qCwZtQaUvs2K-RN66lj1-ItbpBlQ5JlJ52SxleHlOOkECVDwV-48n5C_-3nW7A-yH9cN0iJFkp5ZtIeFnI3DQmcAUj_KCfqNoP6hg7lczbXLkUthYF_pq126XXz8IyKj-HsiQRM8q_uc0MJerD7ppnz7N4XbHmeK3tIMbLxkG_goSs7qA7xC7Gtd9yNG2FeHVwiOijKYKrmVM5IC-oayq0JEfrjmyJEdLWkXOp5RUk6rKOrQCn5aKis; 1P_JAR=2020-07-08-12; SIDCC=AJi4QfEGegR99VosITfRArCb4KSoblNxnRa7FD-nonc6XNhF3BlAEDMMHCu5uLTTjbwyKO-Cgw
+

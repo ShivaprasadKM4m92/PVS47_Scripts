@@ -1,0 +1,9 @@
+HTTP/1.1 200 
+Last-Modified: Mon, 06 Jul 2020 00:31:10 GMT
+ETag: "background-4c8c4fd7df1b6436735eac4cfed91698.jpg"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Type: image/jpeg;charset=UTF-8
+Content-Length: 546257
+Date: Wed, 08 Jul 2020 13:09:14 GMT
+

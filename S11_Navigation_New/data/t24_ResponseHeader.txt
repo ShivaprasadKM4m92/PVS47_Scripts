@@ -1,0 +1,9 @@
+HTTP/1.1 200 
+Last-Modified: Mon, 06 Jul 2020 00:31:10 GMT
+ETag: "pv-signal-logo-61161afba9a8a8e20ebe65b7f0973c2a.png"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Type: image/png;charset=UTF-8
+Content-Length: 3310
+Date: Wed, 08 Jul 2020 13:09:12 GMT
+

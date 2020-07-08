@@ -1,0 +1,11 @@
+[t95]
+FileName1=t95_actions-51fad02afa6a5da6ce440dd20f523dfb.html
+URL1=http://10.100.22.24:8181/signal/assets/app/pvs/actions/actions-51fad02afa6a5da6ce440dd20f523dfb.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_94.xml
+RequestHeaderFile=t95_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t95_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

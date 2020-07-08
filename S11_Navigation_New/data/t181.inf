@@ -1,0 +1,11 @@
+[t181]
+FileName1=t181_dns-query.html
+URL1=https://dns.google/dns-query?dns=S1kBAAABAAAAAAABEGNvbnRlbnQtYXV0b2ZpbGwKZ29vZ2xlYXBpcwNjb20AAAEAAQAAKRAAAAAAAABEAAwAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Total=1
+ContentType=application/dns-message
+SnapshotXmlFile=snapshot_180.xml
+RequestHeaderFile=t181_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t181_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

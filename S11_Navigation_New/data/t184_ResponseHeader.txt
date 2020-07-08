@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+Last-Modified: Mon, 06 Jul 2020 00:32:34 GMT
+ETag: "app/pvs/alerts_review/literature/literature_alert_review-982289e3fdc377b2cb30a2d898e60e2e.js"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: application/javascript;charset=UTF-8
+Content-Length: 8384
+Date: Wed, 08 Jul 2020 13:19:23 GMT
+

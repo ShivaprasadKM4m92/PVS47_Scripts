@@ -1,0 +1,9 @@
+HTTP/1.1 200 
+Last-Modified: Mon, 06 Jul 2020 00:31:10 GMT
+ETag: "excel-a40ce78cdd86cac8004163bf736802da.gif"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Type: image/gif;charset=UTF-8
+Content-Length: 1603
+Date: Wed, 08 Jul 2020 13:18:54 GMT
+

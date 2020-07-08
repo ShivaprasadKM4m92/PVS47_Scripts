@@ -1,0 +1,11 @@
+[t107]
+FileName1=t107_rx_common-dcefd25069e04f9d4bd2d9ba66e3a539.html
+URL1=http://10.100.22.24:8181/signal/assets/app/pvs/common/rx_common-dcefd25069e04f9d4bd2d9ba66e3a539.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_106.xml
+RequestHeaderFile=t107_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t107_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

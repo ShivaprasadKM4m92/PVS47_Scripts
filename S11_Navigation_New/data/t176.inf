@@ -1,0 +1,11 @@
+[t176]
+FileName1=t176_dns-query.html
+URL1=https://dns.google/dns-query?dns=jG4BAAABAAAAAAABEGNvbnRlbnQtYXV0b2ZpbGwKZ29vZ2xlYXBpcwNjb20AAAEAAQAAKRAAAAAAAABEAAwAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Total=1
+ContentType=application/dns-message
+SnapshotXmlFile=snapshot_175.xml
+RequestHeaderFile=t176_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t176_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

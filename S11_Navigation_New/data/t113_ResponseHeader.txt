@@ -1,0 +1,9 @@
+HTTP/1.1 200 
+Last-Modified: Mon, 06 Jul 2020 00:31:10 GMT
+ETag: "section-hd-bg-8eaf77fc4a1a47c48ca4b2e3d5a96340.jpg"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Type: image/jpeg;charset=UTF-8
+Content-Length: 1606
+Date: Wed, 08 Jul 2020 13:11:18 GMT
+

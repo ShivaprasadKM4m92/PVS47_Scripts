@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+Last-Modified: Mon, 06 Jul 2020 00:31:04 GMT
+ETag: "app/pvs/pvs_app_css-5c3c9738e333026bac181f4ace083610.css"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: text/css;charset=UTF-8
+Content-Length: 9759
+Date: Wed, 08 Jul 2020 13:11:06 GMT
+

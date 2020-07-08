@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Shiva Prasad KM\Documents\GitHub\PVS47_Scripts\S11_Navigation_New
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\shiva prasad km\documents\github\pvs47_scripts\s11_navigation_new\\logfile.log
+c:\users\shiva prasad km\documents\github\pvs47_scripts\s11_navigation_new\\combined_S11_Navigation_New.c
+c:\users\shiva prasad km\documents\github\pvs47_scripts\s11_navigation_new\\pre_cci.c

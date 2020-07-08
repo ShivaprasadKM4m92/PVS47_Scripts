@@ -1,0 +1,11 @@
+[t128]
+FileName1=t128_signalList.json
+URL1=http://10.100.22.24:8181/signal/dashboard/signalList?_=1594213875750
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_127.xml
+RequestHeaderFile=t128_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t128_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

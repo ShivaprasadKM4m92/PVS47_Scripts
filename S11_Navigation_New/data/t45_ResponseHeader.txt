@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+Last-Modified: Mon, 06 Jul 2020 00:33:46 GMT
+ETag: "vendorUi/jquery.i18n-61406922e05804e4abe8c8360ec862fa.js"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: application/javascript;charset=UTF-8
+Content-Length: 407
+Date: Wed, 08 Jul 2020 13:11:07 GMT
+

@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+Last-Modified: Mon, 06 Jul 2020 00:33:36 GMT
+ETag: "vendorUi/fuelux/fuelux.min-d30fb133a2493fadc38faabf3f226bc4.js"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: application/javascript;charset=UTF-8
+Content-Length: 25858
+Date: Wed, 08 Jul 2020 13:11:10 GMT
+
