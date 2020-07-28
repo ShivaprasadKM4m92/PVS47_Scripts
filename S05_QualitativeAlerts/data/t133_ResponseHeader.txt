@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+Last-Modified: Wed, 22 Jul 2020 03:35:00 GMT
+ETag: "plugin/dictionary/dictionaries-a389940428e37a7d9156a6bb1e25e277.css"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: text/css;charset=UTF-8
+Content-Length: 920
+Date: Tue, 28 Jul 2020 06:06:30 GMT
+

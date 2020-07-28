@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+Last-Modified: Wed, 22 Jul 2020 03:33:38 GMT
+ETag: "app/pvs/dataTablesActionButtons-50a104b30cb3aa5d21eb1f1f33f1d835.js"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: application/javascript;charset=UTF-8
+Content-Length: 263
+Date: Tue, 28 Jul 2020 06:10:03 GMT
+

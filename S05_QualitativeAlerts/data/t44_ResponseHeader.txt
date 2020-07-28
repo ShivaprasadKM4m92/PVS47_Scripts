@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+Last-Modified: Wed, 22 Jul 2020 03:34:54 GMT
+ETag: "vendorUi/notifyjs/dist/notify.min-1dba61fec15a5d71814b2c2cb69f65bf.js"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: application/javascript;charset=UTF-8
+Content-Length: 3422
+Date: Tue, 28 Jul 2020 06:04:56 GMT
+

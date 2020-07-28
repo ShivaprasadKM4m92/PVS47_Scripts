@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+Last-Modified: Wed, 22 Jul 2020 03:32:10 GMT
+ETag: "copyPasteModal-23c4a55ddeb74fe71b7e63fa6978b420.css"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: text/css;charset=UTF-8
+Content-Length: 496
+Date: Tue, 28 Jul 2020 06:06:26 GMT
+

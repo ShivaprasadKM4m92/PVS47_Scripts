@@ -1,0 +1,9 @@
+[t82]
+SnapshotXmlFile=snapshot_82.xml
+FileName1=t82.png
+URL1=http://10.100.22.24:8181/signal/assets/left_bg-b4ea12efc891fcaf7bd4c4b3ba9828cf.png
+Total=1
+RequestHeaderFile=t82_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t82_ResponseHeader.txt
+ContentType=image/png

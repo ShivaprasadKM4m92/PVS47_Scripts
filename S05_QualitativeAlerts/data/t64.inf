@@ -1,0 +1,11 @@
+[t64]
+FileName1=t64_userGroupSelect-aa16ca7f818f4d9440e25a6580328f56.html
+URL1=http://10.100.22.24:8181/signal/assets/app/pvs/userGroupSelect-aa16ca7f818f4d9440e25a6580328f56.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_61.xml
+RequestHeaderFile=t64_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t64_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

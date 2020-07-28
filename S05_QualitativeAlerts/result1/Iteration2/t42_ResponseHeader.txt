@@ -1,0 +1,11 @@
+HTTP/1.1 200 
+X-Frame-Options: DENY
+X-Application-Context: application:production:7171
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Set-Cookie: SESSION=f77e4551-c242-40c3-8280-de16821c0f3f; Path=/signal/; HttpOnly
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Transfer-Encoding: chunked
+Date: Tue, 28 Jul 2020 07:48:45 GMT
+

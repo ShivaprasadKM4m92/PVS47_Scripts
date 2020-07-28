@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Project\PVS\UpgradedScripts\S05_QualitativeAlerts
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\project\pvs\upgradedscripts\s05_qualitativealerts\\logfile.log
+c:\project\pvs\upgradedscripts\s05_qualitativealerts\\combined_S05_QualitativeAlerts.c
+c:\project\pvs\upgradedscripts\s05_qualitativealerts\\pre_cci.c

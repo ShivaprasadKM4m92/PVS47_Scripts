@@ -1,0 +1,11 @@
+[t63]
+FileName1=t63_actions-71b3800b3a0049b55bfed50490f75a95.html
+URL1=http://10.100.22.24:8181/signal/assets/app/pvs/actions/actions-71b3800b3a0049b55bfed50490f75a95.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_60.xml
+RequestHeaderFile=t63_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t63_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

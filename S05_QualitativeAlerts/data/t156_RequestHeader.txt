@@ -1,0 +1,14 @@
+POST /signal/productDictionary/getSelectedItem?productId=102550&dataSource=pva&dictionaryLevel=3&currentLang=en HTTP/1.1
+Host: 10.100.22.24:8181
+Connection: keep-alive
+Content-Length: 0
+Accept: application/json, text/javascript, */*; q=0.01
+X-CSRF-TOKEN: 8e2387ae-8a88-45ce-8feb-af306f6eb5ef
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+X-Requested-With: XMLHttpRequest
+Origin: http://10.100.22.24:8181
+Referer: http://10.100.22.24:8181/signal/singleCaseAlert/create
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: SESSION=60ec1ccb-ce43-45fc-8d34-7c8a70001cc3
+

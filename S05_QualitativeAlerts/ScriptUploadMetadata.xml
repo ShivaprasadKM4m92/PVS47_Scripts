@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>S05_QualitativeAlerts</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="S05_QualitativeAlerts.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="S05_QualitativeAlerts.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="DateRange.dat" Filter="2" />
+    <FileEntry Name="Altert_Name.dat" Filter="2" />
+    <FileEntry Name="Login.dat" Filter="2" />
+    <FileEntry Name="ProductDetails.dat" Filter="2" />
+    <FileEntry Name="Query_Id.dat" Filter="2" />
+    <FileEntry Name="URL.dat" Filter="2" />
+    <FileEntry Name="combined_S05_QualitativeAlerts.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="13904918441.idx" Filter="1" />
+    <FileEntry Name="1390491844_5ad.746.idx" Filter="1" />
+    <FileEntry Name="1390491844_8yy.542.idx" Filter="1" />
+    <FileEntry Name="1390491844_azN.592.idx" Filter="1" />
+    <FileEntry Name="1390491844_GCR.352.idx" Filter="1" />
+    <FileEntry Name="1390491844_Ge9.902.idx" Filter="1" />
+    <FileEntry Name="1390491844_gor.80.idx" Filter="1" />
+    <FileEntry Name="1390491844_I4A.618.idx" Filter="1" />
+    <FileEntry Name="1390491844_JFB.758.idx" Filter="1" />
+    <FileEntry Name="1390491844_jJ7.782.idx" Filter="1" />
+    <FileEntry Name="1390491844_o2L.614.idx" Filter="1" />
+    <FileEntry Name="1390491844_whA.874.idx" Filter="1" />
+    <FileEntry Name="1390491844_ZBI.524.idx" Filter="1" />
+    <FileEntry Name="187112398441.idx" Filter="1" />
+    <FileEntry Name="194943014441.idx" Filter="1" />
+    <FileEntry Name="200680397441.idx" Filter="1" />
+    <FileEntry Name="20068039744_12K.745.idx" Filter="1" />
+    <FileEntry Name="20068039744_42O.523.idx" Filter="1" />
+    <FileEntry Name="20068039744_a4r.591.idx" Filter="1" />
+    <FileEntry Name="20068039744_b0d.901.idx" Filter="1" />
+    <FileEntry Name="20068039744_dnC.613.idx" Filter="1" />
+    <FileEntry Name="20068039744_GKw.351.idx" Filter="1" />
+    <FileEntry Name="20068039744_nNz.781.idx" Filter="1" />
+    <FileEntry Name="20068039744_OGS.617.idx" Filter="1" />
+    <FileEntry Name="20068039744_qli.757.idx" Filter="1" />
+    <FileEntry Name="20068039744_RdT.873.idx" Filter="1" />
+    <FileEntry Name="20068039744_Z81.541.idx" Filter="1" />
+    <FileEntry Name="20068039744_zl4.79.idx" Filter="1" />
+    <FileEntry Name="240907701441.idx" Filter="1" />
+    <FileEntry Name="95990074441.idx" Filter="1" />
+    <FileEntry Name="9599007444_CfT.593.idx" Filter="1" />
+    <FileEntry Name="9599007444_GjP.759.idx" Filter="1" />
+    <FileEntry Name="9599007444_gxn.875.idx" Filter="1" />
+    <FileEntry Name="9599007444_HVx.747.idx" Filter="1" />
+    <FileEntry Name="9599007444_IUS.543.idx" Filter="1" />
+    <FileEntry Name="9599007444_LJZ.353.idx" Filter="1" />
+    <FileEntry Name="9599007444_ohb.615.idx" Filter="1" />
+    <FileEntry Name="9599007444_TsO.525.idx" Filter="1" />
+    <FileEntry Name="9599007444_V0f.81.idx" Filter="1" />
+    <FileEntry Name="9599007444_VLw.619.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="S05_QualitativeAlerts.c.pickle" Filter="1" />
+    <FileEntry Name="S05_QualitativeAlerts.ci" Filter="1" />
+    <FileEntry Name="S05_QualitativeAlerts.prm.bak" Filter="1" />
+    <FileEntry Name="SchDate.dat" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

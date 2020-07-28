@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+Last-Modified: Wed, 22 Jul 2020 03:34:50 GMT
+ETag: "vendorUi/jquery/jquery.slimscroll-6a314b5f0344bf7ef8e1e0c948bb75f9.js"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: application/javascript;charset=UTF-8
+Content-Length: 1735
+Date: Tue, 28 Jul 2020 06:04:56 GMT
+

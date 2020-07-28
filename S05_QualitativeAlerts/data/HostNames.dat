@@ -1,0 +1,5 @@
+[hosts]
+10.100.22.24=
+clientservices.googleapis.com=
+update.googleapis.com=
+safebrowsing.googleapis.com=

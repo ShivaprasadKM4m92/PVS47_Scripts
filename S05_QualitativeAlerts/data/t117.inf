@@ -1,0 +1,11 @@
+[t117]
+FileName1=t117_dictionary-utils-ba930a6dd7a590de0557de925a255021.html
+URL1=http://10.100.22.24:8181/signal/assets/app/pvs/alert_utils/dictionary-utils-ba930a6dd7a590de0557de925a255021.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_112.xml
+RequestHeaderFile=t117_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t117_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

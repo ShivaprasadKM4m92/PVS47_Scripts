@@ -1,0 +1,11 @@
+[t146]
+FileName1=t146.html
+URL1=http://10.100.22.24:8181/signal/assets/plugin/dictionary/polymer.html
+Total=1
+RequestHeaderFile=t146_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t146_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_138.xml
+[ProtocolInfo]
+ProtocolId=QTWeb
