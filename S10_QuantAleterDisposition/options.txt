@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Project\PVS\UpgradedScripts\S10_QuantAleterDisposition
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\project\pvs\upgradedscripts\s10_quantaleterdisposition\\logfile.log
+c:\project\pvs\upgradedscripts\s10_quantaleterdisposition\\combined_S10_QuantAleterDisposition.c
+c:\project\pvs\upgradedscripts\s10_quantaleterdisposition\\pre_cci.c

@@ -1,0 +1,11 @@
+[t183]
+FileName1=t183_generateCaseSeries.json
+URL1=http://10.100.22.24:8181/signal/aggregateCaseAlert/generateCaseSeries?metaInfo=id:228084,typeFlag:CUMM_FLAG,type:NEW,executedConfigId:3254,productId:100195,ptCode:10019842&seriesName=NORFLOXACIN_Hepatomegaly_32545&isArchived=false
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_170.xml
+RequestHeaderFile=t183_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t183_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

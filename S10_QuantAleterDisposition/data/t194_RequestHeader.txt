@@ -1,0 +1,11 @@
+GET /signal/template/getGeneratedReports?configId=3254&alertId=228084&_=1596109196258 HTTP/1.1
+Host: 10.100.22.24:8181
+Connection: keep-alive
+Accept: application/json, text/javascript, */*; q=0.01
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36
+X-Requested-With: XMLHttpRequest
+Referer: http://10.100.22.24:8181/signal/template/index?configId=3254&type=NEW&alertId=228084&typeFlag=CUMM_FLAG
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: SESSION=7604fc28-3882-4eda-8419-62d92707e8ed
+

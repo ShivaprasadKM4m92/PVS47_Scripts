@@ -1,0 +1,18 @@
+{{#if_eq key "0"}}
+    <a tabindex="0" class="badge badge-info details-tag">{{value.tagText}} {{value.privateUser}} {{ value.tagType}} </a>
+    {{#if value.subTagText}}
+        <a tabindex="0" class="badge details-tag bg-grey-3 ">{{value.subTagText}} (S)</a>
+    {{/if}}
+{{/if_eq}}
+{{#if_else_neq key "0"}}
+    {{#if_tag_exist key value tags}}
+        <a tabindex="0" class="badge details-tag bg-grey-3 ">{{value.subTagText}} (S)</a>
+    {{else}}
+        <br>
+        <a tabindex="0" class="badge badge-info details-tag">{{value.tagText}} {{value.privateUser}} {{ value.tagType}} </a>
+        {{#if value.subTagText}}
+            <a tabindex="0" class="badge details-tag bg-grey-3 ">{{value.subTagText}} (S)</a>
+        {{/if}}
+    {{/if_tag_exist}}
+{{/if_else_neq}}
+

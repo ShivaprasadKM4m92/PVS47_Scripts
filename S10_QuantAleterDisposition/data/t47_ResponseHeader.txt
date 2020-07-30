@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+Last-Modified: Wed, 22 Jul 2020 03:34:56 GMT
+ETag: "vendorUi/select2/select2-911832dffdffb9e7bafb38412a68f445.js"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: application/javascript;charset=UTF-8
+Content-Length: 18982
+Date: Thu, 30 Jul 2020 11:36:42 GMT
+

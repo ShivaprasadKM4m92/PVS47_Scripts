@@ -1,0 +1,11 @@
+[t88]
+FileName1=t88_pushNotification-308cfd70b62333c52f5193fb7eaaafe6.html
+URL1=http://10.100.22.24:8181/signal/assets/app/pvs/pushNotification-308cfd70b62333c52f5193fb7eaaafe6.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_75.xml
+RequestHeaderFile=t88_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t88_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

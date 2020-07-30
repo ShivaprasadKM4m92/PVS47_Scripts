@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+Last-Modified: Wed, 22 Jul 2020 03:33:22 GMT
+ETag: "app/pvs/template/template-71bb2f4a5d7b0f5d9ca4bad0d92ac989.js"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: application/javascript;charset=UTF-8
+Content-Length: 1383
+Date: Thu, 30 Jul 2020 11:39:56 GMT
+

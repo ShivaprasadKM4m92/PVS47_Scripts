@@ -1,0 +1,11 @@
+[t34]
+SnapshotXmlFile=snapshot_34.xml
+FileName1=t34.txt
+URL1=https://content-autofill.googleapis.com/v1/pages/Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRJhCSnPNgmYC5AaEgkNfRAJ6RIAGgASCQ1zOzqZEgAaABIJDeG9PBgSABoAEgkNRKcZehIAGgASCQ2RyfPpEgAaABIJDe0jNlwSABoAEgkNN3spTRIAGgASCQ0R2hn9EgAaAA==?alt=proto
+Total=2
+RequestHeaderFile=t34_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t34_ResponseHeader.txt
+ContentType=text/plain
+FileName2=t34_websocket.html
+URL2=http://10.100.22.24:8181/signal/stomp/944/7kxesdma/websocket

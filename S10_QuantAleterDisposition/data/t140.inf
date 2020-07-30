@@ -1,0 +1,11 @@
+[t140]
+FileName1=t140_fixedColumns-18e4b58b095bead044c38f2fbb3fd070.css
+URL1=http://10.100.22.24:8181/signal/assets/app/pvs/fixedColumns-18e4b58b095bead044c38f2fbb3fd070.css
+Total=1
+ContentType=text/css
+SnapshotXmlFile=snapshot_127.xml
+RequestHeaderFile=t140_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t140_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

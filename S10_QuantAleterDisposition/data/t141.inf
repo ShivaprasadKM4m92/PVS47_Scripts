@@ -1,0 +1,11 @@
+[t141]
+FileName1=t141_disposition-change-cc5b2f75a9cd176f1ce0ecd1578ec974.html
+URL1=http://10.100.22.24:8181/signal/assets/app/pvs/disposition/disposition-change-cc5b2f75a9cd176f1ce0ecd1578ec974.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_128.xml
+RequestHeaderFile=t141_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t141_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,9 @@
+[t122]
+SnapshotXmlFile=snapshot_109.xml
+FileName1=t122.txt
+URL1=https://content-autofill.googleapis.com/v1/pages/Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRIUCTYpmtasdEcoEgkNvYWDDxIAGgASKgnRkqcw98aExBIJDfNfIoMSABoAEgkNvYWDDxIAGgASCQ1w4_NdEgAaAA==?alt=proto
+Total=1
+RequestHeaderFile=t122_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t122_ResponseHeader.txt
+ContentType=text/plain

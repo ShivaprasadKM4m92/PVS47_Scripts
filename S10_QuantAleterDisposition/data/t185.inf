@@ -1,0 +1,11 @@
+[t185]
+FileName1=t185_336142.json
+URL1=http://10.100.22.24:8181/signal/inboxLog/forUser/336142?_=1596109086464
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_172.xml
+RequestHeaderFile=t185_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t185_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

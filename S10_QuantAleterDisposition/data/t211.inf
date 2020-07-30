@@ -1,0 +1,11 @@
+[t211]
+FileName1=t211.json
+URL1=http://10.100.22.24:8181/signal/aggregateCaseAlert/changeDisposition
+Total=1
+RequestHeaderFile=t211_RequestHeader.txt
+RequestBodyFile=t211_RequestBody.txt
+ResponseHeaderFile=t211_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_198.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

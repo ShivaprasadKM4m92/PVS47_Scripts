@@ -1,0 +1,11 @@
+[t142]
+FileName1=t142_priority-change-13788bc067cf5f50f18a400bbf32805f.html
+URL1=http://10.100.22.24:8181/signal/assets/app/pvs/priority/priority-change-13788bc067cf5f50f18a400bbf32805f.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_129.xml
+RequestHeaderFile=t142_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t142_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

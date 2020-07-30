@@ -1,0 +1,9 @@
+[t6]
+SnapshotXmlFile=snapshot_6.xml
+FileName1=t6.txt
+URL1=https://content-autofill.googleapis.com/v1/pages/Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRJsCUe8gUHsi8AxEgkN79iA5hIAGgASCQ1_PJqbEgAaABIJDZHJ8-kSABoAEgkNudCKURIAGgASCQ3RZ88eEgAaABIJDdJohTkSABoAEgkNG_aPoBIAGgASCQ3wFhzoEgAaABIJDThPmTYSABoA?alt=proto
+Total=1
+RequestHeaderFile=t6_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t6_ResponseHeader.txt
+ContentType=text/plain

@@ -1,0 +1,9 @@
+[t105]
+SnapshotXmlFile=snapshot_92.xml
+FileName1=t105.txt
+URL1=https://content-autofill.googleapis.com/v1/pages/Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRI1CeLz7kID33hnEgkNcYiOKxIAGgASCQ29hYMPEgAaABIJDZzsuxkSABoAEgkNvYWDDxIAGgA=?alt=proto
+Total=1
+RequestHeaderFile=t105_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t105_ResponseHeader.txt
+ContentType=text/plain

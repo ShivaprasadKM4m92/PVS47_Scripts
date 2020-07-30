@@ -1,0 +1,11 @@
+[t189]
+FileName1=t189_template-71bb2f4a5d7b0f5d9ca4bad0d92ac989.html
+URL1=http://10.100.22.24:8181/signal/assets/app/pvs/template/template-71bb2f4a5d7b0f5d9ca4bad0d92ac989.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_176.xml
+RequestHeaderFile=t189_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t189_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

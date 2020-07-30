@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+Last-Modified: Wed, 22 Jul 2020 03:33:00 GMT
+ETag: "yadcf/jquery.dataTables.yadcf-a13c93c305588bd0340c6a9901cd3492.js"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: application/javascript;charset=UTF-8
+Content-Length: 32483
+Date: Thu, 30 Jul 2020 11:38:06 GMT
+

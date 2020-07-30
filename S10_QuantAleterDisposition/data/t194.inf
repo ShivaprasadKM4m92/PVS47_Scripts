@@ -1,0 +1,9 @@
+[t194]
+SnapshotXmlFile=snapshot_181.xml
+FileName1=t194.txt
+URL1=https://content-autofill.googleapis.com/v1/pages/Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRI1Ccf1na-_MxWkEgkNxZJPCBIAGgASCQ29hYMPEgAaABIJDYN0yNsSABoAEgkNvYWDDxIAGgA=?alt=proto
+Total=1
+RequestHeaderFile=t194_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t194_ResponseHeader.txt
+ContentType=text/plain

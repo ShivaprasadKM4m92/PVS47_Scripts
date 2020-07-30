@@ -1,0 +1,19 @@
+{{#each tags}}
+   {{#if_eq @key 0}}
+        <span class='badge badge-info details-tag m-r-5 m-t-10'>{{this.tagText}} {{this.privateUser}} {{ this.tagType}} </span>
+        {{#if this.subTagText}}
+            <span class='badge details-tag bg-grey-3 m-r-5 m-t-10'>{{this.subTagText}} (S)</span>
+        {{/if}}
+    {{/if_eq}}
+    {{#if_else_neq @key 0}}
+        {{#if_tag_exist @key this ../tags}}
+            <span class='badge details-tag bg-grey-3 m-r-5 m-t-10'>{{this.subTagText}} (S)</span>
+        {{else}}
+            <br class='tag-badge'>
+            <span class='badge badge-info details-tag m-r-5 m-t-10'>{{this.tagText}} {{this.privateUser}} {{ this.tagType}} </span>
+            {{#if this.subTagText}}
+                <span class='badge details-tag bg-grey-3 m-r-5 m-t-10'>{{this.subTagText}} (S)</span>
+            {{/if}}
+        {{/if_tag_exist}}
+    {{/if_else_neq}}
+{{/each}}
